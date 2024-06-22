@@ -1,8 +1,11 @@
 # Dummy-Data-Generator
-## this is a web app generate dummy json data and store into mongo db database with mongoose and express library
+## this is a web app which generate dummy json data and store into mongo db database with mongoose and express library
 
-# Tech Stack
-## Nodejs  expressjs  mongoos  Mongodb
+## Tech Stack
+### 1:Nodejs  
+### 2:expressjs  
+### 3:mongoos  
+### 4:Mongodb
 
 ![Screenshot_20240617_234711](https://github.com/KunjanPanchal/Dummy-Data-Generator/assets/157042147/f7885eb9-8667-41d2-aeee-cae3a02f8118)
 
